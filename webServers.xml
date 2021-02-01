@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="04ce11d6-7395-452f-83d8-80521d485ade" name="pi@lukaraspi.ddns.net:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="lukaraspi.ddns.net" port="22" sshConfigId="aaae5bae-b72b-4f3b-bd41-f12e20c43554" sshConfig="pi@lukaraspi.ddns.net:22 password" />
+      </webServer>
+    </option>
+  </component>
+</application>

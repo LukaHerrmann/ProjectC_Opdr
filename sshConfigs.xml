@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="lukaraspi.ddns.net" id="aaae5bae-b72b-4f3b-bd41-f12e20c43554" port="22" nameFormat="DESCRIPTIVE" username="pi" />
+    </configs>
+  </component>
+</application>
