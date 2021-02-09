@@ -12,7 +12,7 @@ def diffind(string1, string2):
             return numb
 
 
-
+#ff testen
 firststring = input('Geef een string: ')
 secondstring = input('Geef een string: ')
 print('Het eerste verschil zit op index: {}'.format(diffind(firststring, secondstring)))
